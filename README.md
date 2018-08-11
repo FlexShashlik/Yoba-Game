@@ -36,3 +36,6 @@
    * `move_down();`
 
    * `clear();`
+
+# About project
+ * Done a long time ago in 2017.
