@@ -20,6 +20,8 @@ C:\Users\Sevada\Desktop\Мои игры\sfmlNetGame\sfmlNetGame\bin\Debug\normnf
 C:\Users\sevad\Desktop\Windows\Мои игры\sfmlNetGame\sfmlNetGame\bin\Debug\sfmlNetGame.exe.config
 C:\Users\sevad\Desktop\Windows\Мои игры\sfmlNetGame\sfmlNetGame\bin\Debug\sfmlNetGame.exe
 C:\Users\sevad\Desktop\Windows\Мои игры\sfmlNetGame\sfmlNetGame\bin\Debug\sfmlNetGame.pdb
-C:\Users\sevad\Desktop\Windows\Мои игры\sfmlNetGame\sfmlNetGame\obj\Debug\sfmlNetGame.csprojResolveAssemblyReference.cache
 C:\Users\sevad\Desktop\Windows\Мои игры\sfmlNetGame\sfmlNetGame\obj\Debug\sfmlNetGame.exe
 C:\Users\sevad\Desktop\Windows\Мои игры\sfmlNetGame\sfmlNetGame\obj\Debug\sfmlNetGame.pdb
+C:\Users\sevad\Desktop\Windows\Мои игры\sfmlNetGame\sfmlNetGame\obj\Debug\sfmlNetGame.csprojAssemblyReference.cache
+C:\Users\sevad\Desktop\Windows\Мои игры\sfmlNetGame\sfmlNetGame\obj\Debug\sfmlNetGame.csproj.CoreCompileInputs.cache
+C:\Users\sevad\Desktop\Windows\Мои игры\sfmlNetGame\sfmlNetGame\obj\Debug\sfmlNetGame.csproj.CopyComplete

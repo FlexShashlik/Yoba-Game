@@ -525,7 +525,7 @@ namespace sfmlNetGame
                 }
                 else
                 {
-                    string infoGameOver = String.Format("Вы убили {0} врагов\n и пережили {1} волн", countKills, numberWave);
+                    string infoGameOver = String.Format("You killed {0} enemies\n and survived {1} waves", countKills, numberWave);
                     Text textGameOver = new Text(infoGameOver, font, 24);
 
                     textGameOver.Position = new Vector2f(500, 320);
