@@ -1,0 +1,25 @@
+c:\users\алексей\documents\visual studio 2015\Projects\sfmlNetGame\sfmlNetGame\bin\Debug\sfmlNetGame.exe.config
+c:\users\алексей\documents\visual studio 2015\Projects\sfmlNetGame\sfmlNetGame\bin\Debug\sfmlNetGame.exe
+c:\users\алексей\documents\visual studio 2015\Projects\sfmlNetGame\sfmlNetGame\bin\Debug\sfmlNetGame.pdb
+c:\users\алексей\documents\visual studio 2015\Projects\sfmlNetGame\sfmlNetGame\obj\Debug\sfmlNetGame.csprojResolveAssemblyReference.cache
+c:\users\алексей\documents\visual studio 2015\Projects\sfmlNetGame\sfmlNetGame\obj\Debug\sfmlNetGame.exe
+c:\users\алексей\documents\visual studio 2015\Projects\sfmlNetGame\sfmlNetGame\obj\Debug\sfmlNetGame.pdb
+C:\Users\Sevada\Desktop\Мои игры\sfmlNetGame\sfmlNetGame\bin\Debug\sfmlNetGame.exe.config
+C:\Users\Sevada\Desktop\Мои игры\sfmlNetGame\sfmlNetGame\obj\Debug\sfmlNetGame.exe
+C:\Users\Sevada\Desktop\Мои игры\sfmlNetGame\sfmlNetGame\obj\Debug\sfmlNetGame.pdb
+C:\Users\Sevada\Desktop\Мои игры\sfmlNetGame\sfmlNetGame\bin\Debug\sfmlNetGame.exe
+C:\Users\Sevada\Desktop\Мои игры\sfmlNetGame\sfmlNetGame\bin\Debug\sfmlNetGame.pdb
+C:\Users\Sevada\Desktop\Мои игры\sfmlNetGame\sfmlNetGame\obj\Debug\sfmlNetGame.csprojResolveAssemblyReference.cache
+C:\Users\Sevada\Desktop\Мои игры\sfmlNetGame\sfmlNetGame\bin\Debug\mscorlib.dll
+C:\Users\Sevada\Desktop\Мои игры\sfmlNetGame\sfmlNetGame\bin\Debug\ru\mscorlib.resources.dll
+C:\Users\Sevada\Desktop\Мои игры\sfmlNetGame\sfmlNetGame\bin\Debug\normidna.nlp
+C:\Users\Sevada\Desktop\Мои игры\sfmlNetGame\sfmlNetGame\bin\Debug\normnfc.nlp
+C:\Users\Sevada\Desktop\Мои игры\sfmlNetGame\sfmlNetGame\bin\Debug\normnfd.nlp
+C:\Users\Sevada\Desktop\Мои игры\sfmlNetGame\sfmlNetGame\bin\Debug\normnfkc.nlp
+C:\Users\Sevada\Desktop\Мои игры\sfmlNetGame\sfmlNetGame\bin\Debug\normnfkd.nlp
+C:\Users\sevad\Desktop\Windows\Мои игры\sfmlNetGame\sfmlNetGame\bin\Debug\sfmlNetGame.exe.config
+C:\Users\sevad\Desktop\Windows\Мои игры\sfmlNetGame\sfmlNetGame\bin\Debug\sfmlNetGame.exe
+C:\Users\sevad\Desktop\Windows\Мои игры\sfmlNetGame\sfmlNetGame\bin\Debug\sfmlNetGame.pdb
+C:\Users\sevad\Desktop\Windows\Мои игры\sfmlNetGame\sfmlNetGame\obj\Debug\sfmlNetGame.csprojResolveAssemblyReference.cache
+C:\Users\sevad\Desktop\Windows\Мои игры\sfmlNetGame\sfmlNetGame\obj\Debug\sfmlNetGame.exe
+C:\Users\sevad\Desktop\Windows\Мои игры\sfmlNetGame\sfmlNetGame\obj\Debug\sfmlNetGame.pdb
